@@ -1,0 +1,14 @@
+{
+"errors": {
+    "body":[
+        "cannot be empty"
+        ]
+    }
+}
+
+
+
+// TODO: add 422
+// TODO: add 401
+// TODO: add 403
+// TODO: add 404
